@@ -1,3 +1,4 @@
 services:
   postgres:
-    container
+    container_name: postgres-sql
+    i
