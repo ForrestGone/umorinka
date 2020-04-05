@@ -5,4 +5,4 @@ services:
     environment:
       POSTGRES_USER: username
       POSTGRES_PASSWORD: password
-      PGDATA:
+      PGDATA: /data/postgres
