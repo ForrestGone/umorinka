@@ -6,3 +6,5 @@ services:
       POSTGRES_USER: username
       POSTGRES_PASSWORD: password
       PGDATA: /data/postgres
+    volumes:
+ 
