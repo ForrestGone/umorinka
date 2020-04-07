@@ -9,4 +9,6 @@ services:
     volumes:
       - postgres:/data/postgres
     ports:
-      - "5432:54
+      - "5432:5432"
+    networks:
+    
