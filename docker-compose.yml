@@ -9,4 +9,4 @@ services:
     volumes:
       - postgres:/data/postgres
     ports:
- 
+      - "5432:54
