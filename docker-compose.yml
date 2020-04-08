@@ -15,4 +15,5 @@ services:
     restart: unless-stopped
 
   pgadmin:
-    container_name: pgadmi
+    container_name: pgadmin
+    image: dpage/pgadmi
