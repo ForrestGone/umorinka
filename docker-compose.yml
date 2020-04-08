@@ -15,4 +15,4 @@ services:
     restart: unless-stopped
 
   pgadmin:
-    contain
+    container_name: pgadmi
