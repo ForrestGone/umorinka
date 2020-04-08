@@ -12,4 +12,4 @@ services:
       - "5432:5432"
     networks:
       - postgres
-    resta
+    restart: unless-stopp
