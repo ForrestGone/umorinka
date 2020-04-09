@@ -16,4 +16,5 @@ services:
 
   pgadmin:
     container_name: pgadmin
-    image: dpage/pgadmi
+    image: dpage/pgadmin4
+    enviro
