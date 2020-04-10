@@ -17,4 +17,5 @@ services:
   pgadmin:
     container_name: pgadmin
     image: dpage/pgadmin4
-    enviro
+    environment:
+      PGADMIN
