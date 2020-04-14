@@ -25,4 +25,5 @@ services:
       - pgadmin:/var/lib/pgadmin
     ports:
       - "5050:80"
-    net
+    networks:
+      - p
