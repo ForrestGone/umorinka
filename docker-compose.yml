@@ -26,4 +26,5 @@ services:
     ports:
       - "5050:80"
     networks:
-      - p
+      - postgres
+    restart:
