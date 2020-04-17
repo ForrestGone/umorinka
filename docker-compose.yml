@@ -33,4 +33,6 @@ networks:
   postgres:
     driver: bridge
 
-volu
+volumes:
+  postgres:
+ 
