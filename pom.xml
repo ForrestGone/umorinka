@@ -4,4 +4,4 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
-		<arti
+		<artifactId>spring-boo
