@@ -9,3 +9,4 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.alibou</groupId>
+	<artifactId>security
