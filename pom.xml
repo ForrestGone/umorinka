@@ -8,4 +8,4 @@
 		<version>3.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>co
+	<groupId>com.alibou</groupId>
