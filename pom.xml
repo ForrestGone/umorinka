@@ -19,4 +19,4 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<arti
+			<artifactId>spring-boot-star
