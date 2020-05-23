@@ -27,4 +27,4 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>sp
+			<artifactId>spring-boot-starter
