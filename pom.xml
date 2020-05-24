@@ -32,4 +32,4 @@
 
 		<dependency>
 			<groupId>org.postgresql</groupId>
-			<arti
+			<artifactId>postgresq
