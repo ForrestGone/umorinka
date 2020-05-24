@@ -31,4 +31,5 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.postgresq
+			<groupId>org.postgresql</groupId>
+			<arti
