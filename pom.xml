@@ -32,4 +32,5 @@
 
 		<dependency>
 			<groupId>org.postgresql</groupId>
-			<artifactId>postgresq
+			<artifactId>postgresql</artifactId>
+			<s
