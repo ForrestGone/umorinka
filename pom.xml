@@ -37,4 +37,4 @@
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
-			<artif
+			<artifactId>lombok</artifa
