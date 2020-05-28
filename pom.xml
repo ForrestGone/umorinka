@@ -41,4 +41,4 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
-			<groupId>io.js
+			<groupId>io.jsonwebtoken</gro
