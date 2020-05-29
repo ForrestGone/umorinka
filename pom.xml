@@ -42,4 +42,5 @@
 		</dependency>
 		<dependency>
 			<groupId>io.jsonwebtoken</groupId>
-			<artifactId>jjwt-a
+			<artifactId>jjwt-api</artifactId>
+			<version>0.
