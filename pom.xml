@@ -47,4 +47,5 @@
 		</dependency>
 		<dependency>
 			<groupId>io.jsonwebtoken</groupId>
-			<artifactId>jjwt-impl</arti
+			<artifactId>jjwt-impl</artifactId>
+			<version>0.11
