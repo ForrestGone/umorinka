@@ -50,4 +50,5 @@
 			<artifactId>jjwt-impl</artifactId>
 			<version>0.11.5</version>
 		</dependency>
-		<depen
+		<dependency>
+			<groupId>io
