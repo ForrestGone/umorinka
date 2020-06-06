@@ -52,4 +52,5 @@
 		</dependency>
 		<dependency>
 			<groupId>io.jsonwebtoken</groupId>
-			<artifactId>jjw
+			<artifactId>jjwt-jackson</artifactId>
+			<
