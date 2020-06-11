@@ -61,4 +61,4 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>org.s
+			<groupId>org.springframework.s
