@@ -62,4 +62,4 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.security</groupId>
-			<artifactI
+			<artifactId>spring-security-test</ar
