@@ -68,4 +68,6 @@
 	</dependencies>
 
 	<build>
-		<plu
+		<plugins>
+			<plugin>
+				<g
