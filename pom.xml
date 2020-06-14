@@ -70,4 +70,4 @@
 	<build>
 		<plugins>
 			<plugin>
-				<groupId>org.spri
+				<groupId>org.springframework.boot<
