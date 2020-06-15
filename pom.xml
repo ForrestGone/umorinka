@@ -71,4 +71,4 @@
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
-				<artif
+				<artifactId>spring-boot-mav
