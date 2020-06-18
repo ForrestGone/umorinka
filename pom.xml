@@ -75,4 +75,5 @@
 				<configuration>
 					<excludes>
 						<exclude>
-							<groupId>org.projectlombok</gr
+							<groupId>org.projectlombok</groupId>
+							<artifa
