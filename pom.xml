@@ -76,4 +76,4 @@
 					<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>
-							<artifa
+							<artifactId>lombok</artifactId>
