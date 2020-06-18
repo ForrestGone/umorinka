@@ -75,4 +75,4 @@
 				<configuration>
 					<excludes>
 						<exclude>
-							<groupId>org.pro
+							<groupId>org.projectlombok</gr
