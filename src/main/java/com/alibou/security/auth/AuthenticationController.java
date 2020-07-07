@@ -15,4 +15,4 @@ public class AuthenticationController {
   private final AuthenticationService service;
 
   @PostMapping("/register")
-  public ResponseEnt
+  public ResponseEntity<AuthenticationRespons
