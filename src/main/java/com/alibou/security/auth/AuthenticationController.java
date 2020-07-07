@@ -14,4 +14,5 @@ public class AuthenticationController {
 
   private final AuthenticationService service;
 
-  @PostMapp
+  @PostMapping("/register")
+  pub
