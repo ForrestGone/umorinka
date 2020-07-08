@@ -16,4 +16,4 @@ public class AuthenticationController {
 
   @PostMapping("/register")
   public ResponseEntity<AuthenticationResponse> register(
-  
+      @RequestBody R
