@@ -16,4 +16,6 @@ public class AuthenticationController {
 
   @PostMapping("/register")
   public ResponseEntity<AuthenticationResponse> register(
-      @RequestBody RegisterRequest req
+      @RequestBody RegisterRequest request
+  ) {
+   
