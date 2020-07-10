@@ -18,4 +18,4 @@ public class AuthenticationController {
   public ResponseEntity<AuthenticationResponse> register(
       @RequestBody RegisterRequest request
   ) {
-    return ResponseEntity
+    return ResponseEntity.ok(service.register(
