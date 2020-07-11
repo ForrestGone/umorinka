@@ -20,4 +20,5 @@ public class AuthenticationController {
   ) {
     return ResponseEntity.ok(service.register(request));
   }
-  @PostMapping("/authentica
+  @PostMapping("/authenticate")
+  public Respons
