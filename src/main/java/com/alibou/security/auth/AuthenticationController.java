@@ -22,4 +22,4 @@ public class AuthenticationController {
   }
   @PostMapping("/authenticate")
   public ResponseEntity<AuthenticationResponse> authenticate(
-      @Reques
+      @RequestBody AuthenticationRequ
