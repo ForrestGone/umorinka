@@ -7,4 +7,4 @@ import lombok.NoArgsConstructor;
 
 @Data
 @Builder
-@
+@AllArgsConstructor
