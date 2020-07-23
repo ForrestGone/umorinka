@@ -9,4 +9,6 @@ import lombok.NoArgsConstructor;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-public class Authentica
+public class AuthenticationResponse {
+
+  private 
