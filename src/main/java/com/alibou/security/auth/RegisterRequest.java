@@ -3,4 +3,7 @@ package com.alibou.security.auth;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
-import lombok.NoArgsConst
+import lombok.NoArgsConstructor;
+
+@Data
+@Builde
