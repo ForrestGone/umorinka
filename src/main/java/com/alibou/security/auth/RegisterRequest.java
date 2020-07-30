@@ -8,4 +8,5 @@ import lombok.NoArgsConstructor;
 @Data
 @Builder
 @AllArgsConstructor
-@NoAr
+@NoArgsConstructor
+public c
