@@ -9,4 +9,4 @@ import lombok.NoArgsConstructor;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-public c
+public class RegisterRequest {
