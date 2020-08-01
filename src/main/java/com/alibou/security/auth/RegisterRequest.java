@@ -12,4 +12,5 @@ import lombok.NoArgsConstructor;
 public class RegisterRequest {
 
   private String firstname;
-  private String las
+  private String lastname;
+  privat
