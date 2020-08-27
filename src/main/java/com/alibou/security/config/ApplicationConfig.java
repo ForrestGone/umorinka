@@ -20,4 +20,5 @@ public class ApplicationConfig {
   private final UserRepository repository;
 
   @Bean
-  public UserDetailsService userDetailsS
+  public UserDetailsService userDetailsService() {
+    
