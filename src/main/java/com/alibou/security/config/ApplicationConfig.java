@@ -26,4 +26,4 @@ public class ApplicationConfig {
   }
 
   @Bean
-  public AuthenticationPro
+  public AuthenticationProvider authenticationPro
