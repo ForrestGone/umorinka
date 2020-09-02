@@ -27,4 +27,4 @@ public class ApplicationConfig {
 
   @Bean
   public AuthenticationProvider authenticationProvider() {
-    DaoAuthenticationPr
+    DaoAuthenticationProvider authProvider 
