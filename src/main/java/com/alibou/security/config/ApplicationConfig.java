@@ -32,3 +32,6 @@ public class ApplicationConfig {
     authProvider.setPasswordEncoder(passwordEncoder());
     return authProvider;
   }
+
+  @Bean
+  pu
