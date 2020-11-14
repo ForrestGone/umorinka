@@ -34,4 +34,4 @@ public class ApplicationConfig {
   }
 
   @Bean
-  pu
+  public Authenticati
