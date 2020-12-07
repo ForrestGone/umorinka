@@ -34,4 +34,4 @@ public class ApplicationConfig {
   }
 
   @Bean
-  public AuthenticationManager authenticati
+  public AuthenticationManager authenticationManager(Authentica
