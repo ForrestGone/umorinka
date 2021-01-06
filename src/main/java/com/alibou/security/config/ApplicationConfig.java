@@ -38,4 +38,5 @@ public class ApplicationConfig {
     return config.getAuthenticationManager();
   }
 
- 
+  @Bean
+  public Passwor
