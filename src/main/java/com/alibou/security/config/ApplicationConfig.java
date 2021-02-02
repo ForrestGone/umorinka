@@ -39,4 +39,5 @@ public class ApplicationConfig {
   }
 
   @Bean
-  public PasswordEncoder passwordEncod
+  public PasswordEncoder passwordEncoder() {
+    return 
