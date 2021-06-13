@@ -11,4 +11,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
 import org.springframework.security.core.userdetails.UserDetails;
-import org.springframework.stere
+import org.springframework.stereotype.Service;
+
+@S
