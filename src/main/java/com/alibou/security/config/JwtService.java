@@ -16,4 +16,4 @@ import org.springframework.stereotype.Service;
 @Service
 public class JwtService {
 
-  private static final String SECRET_KEY = "40
+  private static final String SECRET_KEY = "404E635266556A
