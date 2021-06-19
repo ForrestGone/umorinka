@@ -16,4 +16,4 @@ import org.springframework.stereotype.Service;
 @Service
 public class JwtService {
 
-  private
+  private static final S
