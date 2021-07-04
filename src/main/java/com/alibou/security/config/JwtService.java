@@ -22,4 +22,4 @@ public class JwtService {
     return extractClaim(token, Claims::getSubject);
   }
 
-  public <T> T extractClaim(St
+  public <T> T extractClaim(String token, F
