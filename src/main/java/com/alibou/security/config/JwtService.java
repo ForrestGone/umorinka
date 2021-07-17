@@ -27,4 +27,5 @@ public class JwtService {
     return claimsResolver.apply(claims);
   }
 
-  public String generateToken(UserDetails userDetail
+  public String generateToken(UserDetails userDetails) {
+    return generat
