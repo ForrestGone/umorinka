@@ -28,4 +28,7 @@ public class JwtService {
   }
 
   public String generateToken(UserDetails userDetails) {
-    return generateToken(new HashMap<
+    return generateToken(new HashMap<>(), userDetails);
+  }
+
+  pu
