@@ -28,4 +28,4 @@ public class JwtService {
   }
 
   public String generateToken(UserDetails userDetails) {
-    return generat
+    return generateToken(new HashMap<
