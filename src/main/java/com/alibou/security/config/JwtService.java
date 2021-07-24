@@ -32,4 +32,4 @@ public class JwtService {
   }
 
   public String generateToken(
-      Map<String, Ob
+      Map<String, Object> extraClaim
