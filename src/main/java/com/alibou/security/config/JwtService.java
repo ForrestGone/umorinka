@@ -33,4 +33,4 @@ public class JwtService {
 
   public String generateToken(
       Map<String, Object> extraClaims,
-      UserD
+      UserDetails userDetail
