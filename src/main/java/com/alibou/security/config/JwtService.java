@@ -38,4 +38,5 @@ public class JwtService {
     return Jwts
         .builder()
         .setClaims(extraClaims)
-        .setSubject(userDetails.getU
+        .setSubject(userDetails.getUsername())
+  
