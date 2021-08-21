@@ -40,4 +40,4 @@ public class JwtService {
         .setClaims(extraClaims)
         .setSubject(userDetails.getUsername())
         .setIssuedAt(new Date(System.currentTimeMillis()))
-        .setExpiration(new Date
+        .setExpiration(new Date(System.currentTimeMillis() +
