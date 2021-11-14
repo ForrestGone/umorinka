@@ -58,4 +58,4 @@ public class JwtService {
     return extractClaim(token, Claims::getExpiration);
   }
 
-  private Claims extractAl
+  private Claims extractAllClaims(String token) 
