@@ -60,4 +60,4 @@ public class JwtService {
 
   private Claims extractAllClaims(String token) {
     return Jwts
-     
+        .parserBuilder()
