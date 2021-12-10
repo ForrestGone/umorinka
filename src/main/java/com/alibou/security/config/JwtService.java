@@ -68,3 +68,4 @@ public class JwtService {
   }
 
   private Key getSignInKey() {
+    byte[] keyBytes
