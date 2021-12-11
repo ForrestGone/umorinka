@@ -68,4 +68,4 @@ public class JwtService {
   }
 
   private Key getSignInKey() {
-    byte[] keyBytes
+    byte[] keyBytes = Decoders.BASE64.de
