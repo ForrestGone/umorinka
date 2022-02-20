@@ -10,3 +10,4 @@ import org.springframework.security.web.authentication.logout.LogoutHandler;
 import org.springframework.stereotype.Service;
 
 @Service
+@RequiredArgsConstructo
