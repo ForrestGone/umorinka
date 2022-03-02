@@ -17,4 +17,5 @@ public class LogoutService implements LogoutHandler {
 
   @Override
   public void logout(
-      Ht
+      HttpServletRequest request,
+ 
