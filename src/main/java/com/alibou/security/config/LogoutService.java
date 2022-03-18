@@ -19,4 +19,4 @@ public class LogoutService implements LogoutHandler {
   public void logout(
       HttpServletRequest request,
       HttpServletResponse response,
-      Authe
+      Authentication authenti
