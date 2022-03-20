@@ -21,4 +21,4 @@ public class LogoutService implements LogoutHandler {
       HttpServletResponse response,
       Authentication authentication
   ) {
-    final Strin
+    final String authHeader = req
