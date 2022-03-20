@@ -21,4 +21,5 @@ public class LogoutService implements LogoutHandler {
       HttpServletResponse response,
       Authentication authentication
   ) {
-    final String authHeader = request.getHeader("A
+    final String authHeader = request.getHeader("Authorization");
+    f
