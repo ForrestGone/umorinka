@@ -22,4 +22,5 @@ public class LogoutService implements LogoutHandler {
       Authentication authentication
   ) {
     final String authHeader = request.getHeader("Authorization");
-    f
+    final String jwt;
+    if (au
