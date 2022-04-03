@@ -26,4 +26,4 @@ public class LogoutService implements LogoutHandler {
     if (authHeader == null ||!authHeader.startsWith("Bearer ")) {
       return;
     }
-    j
+    jwt = authHeader.sub
