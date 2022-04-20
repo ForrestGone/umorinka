@@ -31,4 +31,5 @@ public class LogoutService implements LogoutHandler {
         .orElse(null);
     if (storedToken != null) {
       storedToken.setExpired(true);
-      storedTok
+      storedToken.setRevoked(true);
+      toke
