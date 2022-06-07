@@ -7,4 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/v1/demo-controller")
-public clas
+public class DemoController {
+
+  @
