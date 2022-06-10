@@ -10,4 +10,5 @@ import org.springframework.web.bind.annotation.RestController;
 public class DemoController {
 
   @GetMapping
-  public ResponseEntity<String> say
+  public ResponseEntity<String> sayHello() {
+    ret
