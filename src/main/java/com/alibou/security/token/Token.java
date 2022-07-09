@@ -15,4 +15,5 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
-@
+@Builder
+@NoArgsCon
