@@ -19,4 +19,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-publi
+public class Token {
+
+  @
