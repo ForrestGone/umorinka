@@ -17,4 +17,6 @@ import lombok.NoArgsConstructor;
 @Data
 @Builder
 @NoArgsConstructor
-@AllArgsConstru
+@AllArgsConstructor
+@Entity
+publi
