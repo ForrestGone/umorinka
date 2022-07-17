@@ -25,4 +25,5 @@ public class Token {
   @GeneratedValue
   public Integer id;
 
-  @Column
+  @Column(unique = true)
+  p
