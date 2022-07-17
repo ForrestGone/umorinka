@@ -21,4 +21,5 @@ import lombok.NoArgsConstructor;
 @Entity
 public class Token {
 
-  @
+  @Id
+  @Generate
