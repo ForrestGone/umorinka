@@ -23,4 +23,6 @@ public class Token {
 
   @Id
   @GeneratedValue
-  public I
+  public Integer id;
+
+  @Column
