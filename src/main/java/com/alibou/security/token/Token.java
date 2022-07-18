@@ -26,4 +26,6 @@ public class Token {
   public Integer id;
 
   @Column(unique = true)
-  p
+  public String token;
+
+  
