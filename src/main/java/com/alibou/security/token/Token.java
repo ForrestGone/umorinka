@@ -28,4 +28,5 @@ public class Token {
   @Column(unique = true)
   public String token;
 
-  @Enumerated(EnumType.STR
+  @Enumerated(EnumType.STRING)
+  publi
