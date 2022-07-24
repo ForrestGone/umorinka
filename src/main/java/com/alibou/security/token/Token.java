@@ -29,4 +29,4 @@ public class Token {
   public String token;
 
   @Enumerated(EnumType.STRING)
-  public TokenType tokenTy
+  public TokenType tokenType = TokenType.B
