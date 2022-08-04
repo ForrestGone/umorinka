@@ -31,4 +31,6 @@ public class Token {
   @Enumerated(EnumType.STRING)
   public TokenType tokenType = TokenType.BEARER;
 
-  public boolean r
+  public boolean revoked;
+
+  public bo
