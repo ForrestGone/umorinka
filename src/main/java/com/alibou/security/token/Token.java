@@ -33,4 +33,6 @@ public class Token {
 
   public boolean revoked;
 
-  public bo
+  public boolean expired;
+
+  @ManyToO
