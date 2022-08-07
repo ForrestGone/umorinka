@@ -35,4 +35,5 @@ public class Token {
 
   public boolean expired;
 
-  @ManyToO
+  @ManyToOne
+  @JoinColumn(na
