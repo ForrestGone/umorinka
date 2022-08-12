@@ -37,3 +37,4 @@ public class Token {
 
   @ManyToOne
   @JoinColumn(name = "user_id")
+  public User use
