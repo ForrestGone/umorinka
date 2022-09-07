@@ -7,4 +7,5 @@ import org.springframework.data.jpa.repository.Query;
 
 public interface TokenRepository extends JpaRepository<Token, Integer> {
 
-  @Quer
+  @Query(value = """
+      sel
