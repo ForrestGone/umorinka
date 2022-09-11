@@ -8,4 +8,4 @@ import org.springframework.data.jpa.repository.Query;
 public interface TokenRepository extends JpaRepository<Token, Integer> {
 
   @Query(value = """
-      select t from Token t i
+      select t from Token t inner join User u
