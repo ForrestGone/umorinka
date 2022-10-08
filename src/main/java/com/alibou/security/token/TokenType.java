@@ -1,3 +1,3 @@
 package com.alibou.security.token;
 
-p
+public enum TokenType
