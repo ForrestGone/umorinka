@@ -1,1 +1,3 @@
-package com.alibou.sec
+package com.alibou.security.user;
+
+public enum
