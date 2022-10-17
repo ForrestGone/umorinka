@@ -1,3 +1,4 @@
 package com.alibou.security.user;
 
-public enum
+public enum Role {
+
