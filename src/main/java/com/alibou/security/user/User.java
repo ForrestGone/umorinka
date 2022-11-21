@@ -9,4 +9,5 @@ import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 import java.util.Collection;
-import java
+import java.util.List;
+imp
