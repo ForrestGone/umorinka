@@ -12,4 +12,5 @@ import java.util.Collection;
 import java.util.List;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
-import lombok.Dat
+import lombok.Data;
+import lomb
