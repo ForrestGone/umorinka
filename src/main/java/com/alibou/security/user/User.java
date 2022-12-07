@@ -15,4 +15,5 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
-import org.springframework.security.core.authority.Simp
+import org.springframework.security.core.authority.SimpleGrantedAuthority;
+import
