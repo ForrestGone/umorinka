@@ -21,4 +21,6 @@ import org.springframework.security.core.userdetails.UserDetails;
 @Data
 @Builder
 @NoArgsConstructor
-@AllArgsCo
+@AllArgsConstructor
+@Entity
+@Tabl
