@@ -23,4 +23,4 @@ import org.springframework.security.core.userdetails.UserDetails;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-@Tabl
+@Table(name = "_user")
