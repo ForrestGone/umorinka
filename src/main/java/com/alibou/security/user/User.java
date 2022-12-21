@@ -28,3 +28,4 @@ public class User implements UserDetails {
 
   @Id
   @GeneratedValue
+  private Integer i
