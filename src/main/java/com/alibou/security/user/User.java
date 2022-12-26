@@ -30,4 +30,5 @@ public class User implements UserDetails {
   @GeneratedValue
   private Integer id;
   private String firstname;
-  privat
+  private String lastname;
+ 
