@@ -32,4 +32,6 @@ public class User implements UserDetails {
   private String firstname;
   private String lastname;
   private String email;
-  private St
+  private String password;
+
+  @E
