@@ -34,4 +34,4 @@ public class User implements UserDetails {
   private String email;
   private String password;
 
-  @E
+  @Enumerated(EnumT
