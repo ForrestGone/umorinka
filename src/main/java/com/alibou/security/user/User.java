@@ -34,4 +34,5 @@ public class User implements UserDetails {
   private String email;
   private String password;
 
-  @Enumerated(EnumT
+  @Enumerated(EnumType.STRING)
+  private Role ro
