@@ -35,4 +35,6 @@ public class User implements UserDetails {
   private String password;
 
   @Enumerated(EnumType.STRING)
-  private Role ro
+  private Role role;
+
+  @OneToMany(mappe
