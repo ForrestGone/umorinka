@@ -38,4 +38,6 @@ public class User implements UserDetails {
   private Role role;
 
   @OneToMany(mappedBy = "user")
-  private List<Token>
+  private List<Token> tokens;
+
+  @Over
