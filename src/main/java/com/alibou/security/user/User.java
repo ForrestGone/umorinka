@@ -41,4 +41,5 @@ public class User implements UserDetails {
   private List<Token> tokens;
 
   @Override
-  public Collection<? extends GrantedAutho
+  public Collection<? extends GrantedAuthority> getAuthorities() {
+ 
