@@ -46,4 +46,5 @@ public class User implements UserDetails {
   }
 
   @Override
-  public String getPas
+  public String getPassword() {
+    return passw
