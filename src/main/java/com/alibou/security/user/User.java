@@ -61,4 +61,5 @@ public class User implements UserDetails {
   }
 
   @Override
-  public boolean isAcco
+  public boolean isAccountNonLocked() {
+  
