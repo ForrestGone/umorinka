@@ -66,4 +66,5 @@ public class User implements UserDetails {
   }
 
   @Override
-  public boolean isCredentialsNonExpire
+  public boolean isCredentialsNonExpired() {
+    return
