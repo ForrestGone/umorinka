@@ -71,4 +71,5 @@ public class User implements UserDetails {
   }
 
   @Override
-  public boolea
+  public boolean isEnabled() {
+    ret
