@@ -2,4 +2,5 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/jwt_security
     username: alibou
-    password: alibo
+    password: alibou
+    driver-
