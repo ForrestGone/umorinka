@@ -3,4 +3,4 @@ spring:
     url: jdbc:postgresql://localhost:5432/jwt_security
     username: alibou
     password: alibou
-    driver-
+    driver-class-name: org.postgr
