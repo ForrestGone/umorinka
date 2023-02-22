@@ -5,4 +5,5 @@ spring:
     password: alibou
     driver-class-name: org.postgresql.Driver
   jpa:
-  
+    hibernate:
+      ddl-au
