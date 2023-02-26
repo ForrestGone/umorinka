@@ -7,4 +7,5 @@ spring:
   jpa:
     hibernate:
       ddl-auto: create-drop
-    s
+    show-sql: true
+    pro
