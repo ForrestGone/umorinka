@@ -9,4 +9,5 @@ spring:
       ddl-auto: create-drop
     show-sql: true
     properties:
-      hibe
+      hibernate:
+        format_sql: true
